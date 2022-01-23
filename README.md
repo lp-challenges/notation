@@ -46,7 +46,7 @@ Known as a Stack data structure, this implementation is a favorite among hiring 
 
 ## Algorithmic running times / logarithmic time
 * O(n2): One loop on every item
-* Linear time O(n)
+* Linear time O(n): common loop
 * Logarithmic time O(log n): Binary search (increase slowly with the input)
 * Constant time O(1)
 
