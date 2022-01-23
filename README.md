@@ -45,6 +45,12 @@ func pop() -> T? {
 Known as a Stack data structure, this implementation is a favorite among hiring managers when conducting technical interviews. The reason? A Stack combines ideas found in native iOS Development (e.g., UINavigationController) along with specific language syntax (e.g., collections and generics) coupled with knowledge of Big O Notation. As shown, what makes a Stack useful is how it performs. For example, all actions can be executed without having to search through or analyze previously added items.
 
 ## Algorithmic running times / logarithmic time
+* O(n2): One loop on every item
+* Linear time O(n)
+* Logarithmic time O(log n): Binary search (increase slowly with the input)
+* Constant time O(1)
 
 ![time_complexity](https://user-images.githubusercontent.com/3194444/150688894-d80e53ad-f7f1-473e-b938-7bf5c25fa8ee.png)
+
+
 
